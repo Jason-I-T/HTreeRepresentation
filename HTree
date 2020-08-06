@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd src/
+
+java -jar Main.jar
