@@ -2,4 +2,4 @@
 
 cd src/
 
-java -jar Main.jar
+java -jar HTree.jar
